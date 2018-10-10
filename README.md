@@ -1,8 +1,12 @@
 # Datormacibas kursa elektroniskā klāde
+
 CTRL + ALT + T - atvēras loga "Terminal"
+
 CTRL + SHIFT + T - atvēras papildloga logā "Terminal"
+
 U + TAB x2 - komandu saraksts
 CTRL + L - nodzēst visu logā
+
 ________________________________________
 12.09.2018
 uname - command
