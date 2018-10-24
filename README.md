@@ -150,3 +150,11 @@ kompaktakts saraksts
 " idle & "
 
 komandu saraksts
+
+" break" 
+
+ends the current loop and jumps to the next statement
+
+"continue"
+
+ends the current iteration and jums to the top of the loop
